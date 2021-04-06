@@ -8,35 +8,35 @@ Diaframma
 
 ##Sun
 ###Launch
-Cous cous con alici e pomodorini
+
 ###Dinner
-Tortellini in brodo
+
 
 ##Mon
 ###Launch
-[Spaghetti teriyaki](Recipes/spaghetti-teriyaki.md)
+
 ###Dinner
-Tortellini in brodo
+
 
 ##Tue
 ###Launch
-Piadina hummus peperoni fagioli
+Pasta e lenticchie
 ###Dinner
-Zuppa
+Puntarelle con pane
 
 ##Wed
 ###Launch
-Cous cous con alici e pomodorini
+[zuppa lenticchie funghi](zuppa-lenticchie-funghi)
 ###Dinner
 Tortellini in brodo
 
 ##Thu
 ###Launch
-Cous cous con alici e pomodorini
+Lasagna
 ###Dinner
-Tortellini in brodo
+Pollo marinato con sesamo
 
 ##Fry
 ###Launch
-Panino cipolle caramellate e mozzarella
+Pasta aglio olio peperoncino
 ###Dinner
