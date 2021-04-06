@@ -1,0 +1,16 @@
+= 2021-04-07 =
+
+== TODO ==
+* [ ] continuo algoritmi simplettici
+* [ ] continuo schematizzazione
+* [ ] ricontrollo algoritmi vincolo
+- [ ] leggo celine
+- [ ] lavatrice
+- [ ] lavaggio filtro aspirapolvere
+- [ ] stendo
+- [ ] passeggiata
+
+== Quick notes ==
+*
+
+-pd-

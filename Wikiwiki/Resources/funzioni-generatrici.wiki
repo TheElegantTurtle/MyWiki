@@ -1,5 +1,5 @@
 = Funzioni Generatrici =
-* **T** : Un mapping $f:(p,1)->(P,Q)$ è simplettico iff esiste localmente S(q,p) tc $P^T dQ - p^T dq = dS$
+* *T* : Un mapping $f:(p,1)->(P,Q)$ è simplettico iff esiste localmente S(q,p) tc $P^T dQ - p^T dq = dS$
     1. Scrivo Jf a blocchi ($P_p,P_q//Q_p,Q_q$)
     2. Inserisco nella [condizione di simpletticità](trasformazioni-simplettiche.md) e moltiplico
     3. simpletticità iff $P_p^T Q_p=Q_p^T P_p$, $P_p^T Q_q-id=Q_p^T P_q$, $Q_q^T P_q = P_q^T Q_q$
@@ -13,7 +13,7 @@
     - $y=h(z)$
 * Se f è simplettico, può essere ottenuto da $S(q,Q)=S(h(z))$: $P=dS(q,Q)/dQ$, $p=-dS(q,Q)/dq$
     - Basta sostituire nell'eq del teorema, scrivere esplicitamente S e confrontare i coeff
-* **T** : $f:(p,q)->(P,Q)$ vicina all'identità è simplettica iff, per certe $S^1(P,q)$, $S^2(p,Q)$, $S^3((P+p)/2,(Q+q)/2)$
+* *T* : $f:(p,q)->(P,Q)$ vicina all'identità è simplettica iff, per certe $S^1(P,q)$, $S^2(p,Q)$, $S^3((P+p)/2,(Q+q)/2)$
     - $Q^TdP+p^Tdq=d(P^Tq+S^1)$
     - $P^TdQ+q^Tdp=d(p^TQ-S^2)$
     - $(Q-q)^Td(P+p)-(P-p)^Td(Q+q)=2dS^3$

@@ -1,6 +1,6 @@
-[[integratori-simplettici.md|Integratori simplettici]]
-[[trasformazioni-simplettiche.md|Trasformazioni Simplettiche]]
-[[funzioni-generatrici.md|funzioni generatrici]]
-[[sistemi-integrabili.md|sistemi integrabili]]
+[[integratori-simplettici.wiki|Integratori simplettici]]
+[[trasformazioni-simplettiche.wiki|Trasformazioni Simplettiche]]
+[[funzioni-generatrici.wiki|funzioni generatrici]]
+[[sistemi-integrabili.wiki|sistemi integrabili]]
 
 [[Zettelkasten/aaaaaaa-.md|Zettelkasten]]

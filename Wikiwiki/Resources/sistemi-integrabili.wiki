@@ -2,10 +2,10 @@
 * domanda: Sotto quali condizioni un sistema hamiltoniano (dimensione 2n) è integrabile?
 * idea: cerchiamo [[funzioni-generatrici.wiki|trasformazione canonica]] $(p,q)->(x,y)$ che semplifichi il sistema
    - ovvero $H(p,q)=K(x)$ in modo che il sistema diventi $dx/dt=0$, $dy/dt=w(x)$
-        + il sistema è integrabile: $x(t)=cost$, $y(t)=w(x)t+c$
+        - il sistema è integrabile: $x(t)=cost$, $y(t)=w(x)t+c$
    - significa richiedere che la funzione generatrice soddisfi eq differenziale $H(dS/dq,q)=K(x)$ (eq di Hamilton-Jacobi)
    - gli $x_i=F_i(p,q)$ sono integrali primi del moto in involuzione
-* **T**: Se ho n funzioni $F_i$ in involuzione fra loro in un intorno di
+* *T*: Se ho n funzioni $F_i$ in involuzione fra loro in un intorno di
     $(q_0,p_0)$ e i loro gradienti sono l.i. in $(q_0,p_0)$ allora esistono n funzioni lisce
     $G_i$ definnite in un intorno di $(q_0,p_0)$ che completano la trasformazione
     $(p,q)->(F_1...F_n,G_1...G_n)=(x,y)$
@@ -18,7 +18,7 @@
     7. $d^2S/dxdq=P_x=F_p^{-1}$ è invertibile dunque $y=dS/dx=G$, $p=dS/dq$ è trasformazione simplettica (x=F per costruzione)
     - Se le $F_i$ sono integrali del moto posso costruire il sistema semplificato, in quanto $H(p,q)=F_1(p,q)=x_1=K(x)$
 * problema: lemma locale, non mi dice nulla sulla dinamica del sistema
-* **D** : Un sistema con hamiltoniana $H:McR^{2n}->R$ è detto completamente integrabile se esistono n funzioni lisce $F_i$ (con $F_1=H$)
+* *D* : Un sistema con hamiltoniana $H:McR^{2n}->R$ è detto completamente integrabile se esistono n funzioni lisce $F_i$ (con $F_1=H$)
     tali che
     1. $F_i$ sono i involuzione
     2. i loro gradienti sono l.i. in ogni punto di M (passaggio da locale di lemma a globale)
@@ -28,7 +28,7 @@
     - Quindi per il punto 1 tutti gli $F_j$ sono integrali del sistema con Hamiltoniana $F_i$
     - I flussi di ciascuna di queste Hamiltoniane commutano [lemma lubich pag 279]
 * Introduciamo l'insieme di livello $M_x={(p,q)cM|F(p,q)=x}$
-* **T** : $F_i: M->R$ soddisfano la definizione, $M_x$ non vuoto e connesso in un intorno di $x_0\in R^n$
+* *T* : $F_i: M->R$ soddisfano la definizione, $M_x$ non vuoto e connesso in un intorno di $x_0\in R^n$
     allora in B intorno di $x_0$ esiste un mapping simplettico e suriettivo
     $e:BxR^n -> U_{x\in B} M_x, (x,y) -> (p,q)$
     che linearizza i flussi dei sistemi con Hamiltoniane $F_i$, ovvero $f_t^i(p,q)=e(x,y+te_i)$ (e_i versore)
@@ -49,11 +49,11 @@
        }}}
     7. Costruiamo $e: (x,y)->(x,y_0)->(p,q)->f_y(p,q)$, $e(x,y)=f_y(l^{-1}(x,y_0))$
     7.
-        + e è simplettico in quanto composizione di trasformazioni simplettiche
-        + Per come è stato definito, chiaramente vale $f_t^i(p,q)=e(x,y+te_i)$
-        + $M_x$ è invariante sotto $f_t^i$ e $l^{-1}(x,y_0)$ è in $M_x$ dunque e(x,y) è in $M_x$ per ogni (x,y)
+        - e è simplettico in quanto composizione di trasformazioni simplettiche
+        - Per come è stato definito, chiaramente vale $f_t^i(p,q)=e(x,y+te_i)$
+        - $M_x$ è invariante sotto $f_t^i$ e $l^{-1}(x,y_0)$ è in $M_x$ dunque e(x,y) è in $M_x$ per ogni (x,y)
     8. Resta da mostrare suriettività ...
-* **T** (arnol'd -liouville) : F come da definizione, $M_x$ compatto e connesso per ogni x in un
+* *T* (arnol'd -liouville) : F come da definizione, $M_x$ compatto e connesso per ogni x in un
     intorno di $x_0$ in $R^n$. Allora esistono intorni B di $x_0$ e D di 0 tali che: per ogni x
     M_x sia $T^n$ invariante sotto il flusso dei sistemi con Hamiltoniana $F_i$; esiste una
     trasformazione simplettica biiettiva $\psi: DxT^d -> U_{x\in B} M_x c R^nxR^n, (a,\theta)->(pq)$ tc

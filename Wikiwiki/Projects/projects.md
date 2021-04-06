@@ -1,1 +1,1 @@
-[Vimwiki](Wiki/proj.md)
+[Vimwiki](Wiki/proj.wiki "wikilink")

@@ -1,4 +1,4 @@
-=MyWiki=
+= MyWiki =
 * [[Projects/projects.wiki|Projects]]
 * [[Areas/areas.wiki|Areas]]
 * [[Resources/resources.wiki|Resources]]
