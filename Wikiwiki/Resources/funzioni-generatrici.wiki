@@ -1,4 +1,4 @@
-#Funzioni Generatrici
+= Funzioni Generatrici =
 * **T** : Un mapping $f:(p,1)->(P,Q)$ è simplettico iff esiste localmente S(q,p) tc $P^T dQ - p^T dq = dS$
     1. Scrivo Jf a blocchi ($P_p,P_q//Q_p,Q_q$)
     2. Inserisco nella [condizione di simpletticità](trasformazioni-simplettiche.md) e moltiplico

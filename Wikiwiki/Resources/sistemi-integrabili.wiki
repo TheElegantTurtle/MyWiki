@@ -1,5 +1,6 @@
+= Sistemi Integrabili =
 * domanda: Sotto quali condizioni un sistema hamiltoniano (dimensione 2n) è integrabile?
-* idea: cerchiamo [trasformazione canonica](funzioni-generatrici.md) $(p,q)->(x,y)$ che semplifichi il sistema
+* idea: cerchiamo [[funzioni-generatrici.wiki|trasformazione canonica]] $(p,q)->(x,y)$ che semplifichi il sistema
    - ovvero $H(p,q)=K(x)$ in modo che il sistema diventi $dx/dt=0$, $dy/dt=w(x)$
         + il sistema è integrabile: $x(t)=cost$, $y(t)=w(x)t+c$
    - significa richiedere che la funzione generatrice soddisfi eq differenziale $H(dS/dq,q)=K(x)$ (eq di Hamilton-Jacobi)
@@ -36,7 +37,7 @@
     3. Siccome ${F_i,F_j}=0$ i loro flussi commutano e dunque $f_{tv}=f_{tv_1}^1...f_{tv_n}^n$
     4. l trasforma il sistema con Hamiltoniana $F_v$ in $dx/dt=0,dy/dt=v$
     5. Il seguente schema commuta  per (p,q) in U e tv piccoli
-        ```
+       {{{
             (p,q) ----> f_{vt}(p,q)
               | ............ ^
               | ............ |
@@ -45,8 +46,8 @@
               v ............ |
             (x,y) ------> (x,y+tv)
 
-        ```
-    6. Costruiamo $e: (x,y)->(x,y_0)->(p,q)->f_y(p,q)$, $e(x,y)=f_y(l^{-1}(x,y_0))$
+       }}}
+    7. Costruiamo $e: (x,y)->(x,y_0)->(p,q)->f_y(p,q)$, $e(x,y)=f_y(l^{-1}(x,y_0))$
     7.
         + e è simplettico in quanto composizione di trasformazioni simplettiche
         + Per come è stato definito, chiaramente vale $f_t^i(p,q)=e(x,y+te_i)$
