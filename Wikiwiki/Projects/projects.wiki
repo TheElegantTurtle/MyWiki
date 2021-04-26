@@ -1,1 +1,2 @@
-[[Wiki/proj.wiki|Vimwiki]]
+*[[Wiki/proj.wiki|Vimwiki]]
+*[[tesi|Tesi]]

@@ -1,0 +1,42 @@
+= 2021-04-12 =
+
+== TODO ==
+* [X] Riorganizzo resources wiki
+* [X] Rivedo quello che ho fatto in vista di colloquio
+* [X] Inizio a studiare materiale carati
+* [ ] Scrivo per bene conti matrici pauli
+- [X] Aiuto clarice
+- [ ] Leggo Celine
+- [X] Leggo Kundera
+
+== Agenda ==
+| 12.00            | 13.00 |
+|------------------|-------|
+| Colloquio carati |       |
+
+== Quick Notes ==
+*
+
+== Brain Dump ==
+*
+
+{{{
+ _______________________________________
+/ Very few things happen at the right   \
+| time, and the rest do not happen at   |
+| all. The conscientious historian will |
+| correct these defects.                |
+|                                       |
+\ -- Herodotus                          /
+ ---------------------------------------
+  \            .    .     .
+   \      .  . .     `  ,
+    \    .; .  : .' :  :  : .
+     \   i..`: i` i.i.,i  i .
+      \   `,--.|i |i|ii|ii|i:
+           UooU\.'@@@@@@`.||'
+           \__/(@@@@@@@@@@)'
+                (@@@@@@@@)
+                `YY~~~~YY'
+                 ||    ||
+}}}

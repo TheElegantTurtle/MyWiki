@@ -1,0 +1,40 @@
+= L'astrornomia nella divina commedia =
+* *Relatore:* Franco
+* ca 100 cit astronomiche in dc
+* Viaggio di dante in settimana santa 1300 - con info astronomiche si riesce a ricostruire configurazione astronomica dell'epoca
+* Cielo è quello aristotelico-tolemaico (dante ha letto loro testi, sdoganati da san tommaso d'aquino)
+    - conosce moto stelle e precessione equinozi
+* Sist tolemaico
+    - sfere concentriche ciascuna con un pianeta
+    - ext sfera stelle fisse
+    - 9a sfera primo mobile: mette in moto sfere dentro
+    - il pianeta si muove di mcu (simbolo di perfezione) inadeguata!
+        * epicilo (piccola orbita) su deferente (orbita più grande) permette di spiegare variazioni di luminosità e inversione del moto apparente
+* dv 2 emisferi:
+    - terre emerse: al centro gerusalemme equidistante da limiti di mondo allora noto: gange, colonne d'ercole
+    - emisfero australe: al centro purgatorio
+* Tutte cantiche finiscono con parola stelle
+* Selva:
+    - Dante vede spuntare i primi raggi del sole: sole entra in ariete -> primavera -> secondo tradiz medievale è quando è iniziata creazione
+* inferno:
+    - non si vede il cielo -> prima forma di punizione per dannati
+    - XI canto: posizione stella per ribadire ore. Pesci sull'orizzonte, orsa magg a nw e sole in ariete prossimo a sorgere -> 6am
+    - XX canto: luna (caino e spine) tramonta sotto siviglia, giorno prima (quello di selva) c'era luna piena -> sett santa
+    - XXI canto: ribadita epoca: 7 del mattino 9 aprile 1300 (conferma nel mezzo del cammin)
+    - XXVI canto: tutte le stelle in posizione dominante -> effetto drammatico, ulisse sta per naufragare, è vicino a purgatorio -> nessuna stella di quelle note è visibile da lì
+    - XXXIV canto: dante vede cielo finalmente -> si stupisce di sole già su -> virgilio gli spiega che è perchè siamo nell'altro emisfero; riferi mento a forza di gravità generata da centro della terra
+* purgatorio:
+    * Destinato a guardare cielo, destinazione di anime purganti
+    * Ancora uso di astronomia per scandire tempo -> usato sempre sole (mai nominato in inferno) a scandire ore
+    * I canto: è alba domenica 10 aprile, vede 4 stelle mai viste da nessuno -> rappresentano 4 virtù cardinali -> alcuni identificano croce del sud ai tempi nota
+    * XI canto: cita precessione equinozi ovvero spostamento punto gamma da occidente a oriente(movimento 26mila anni) (già ne parla nel convivio) -> ai tempi velocità stimata 36mila anni
+* paradiso:
+    * non ci sono più riferimenti spaziali, ci sono cieli tolemaici (7 cieli planetari, stelle fisse e primo mobile)
+    * I canto: il sole sorge in congiunzione con ariete in quel momento e unisce i 4 cerchi di orizzonte, equatore, eclittica e coluro equinoziale formando 3 croci (4 virtù caridnali + 3 teologali)
+    * VIII canto: epicicli di venere (3o cielo)
+    * XIV canto: cita via lattea, chiamata galassia (già citata in convivio) -> ipotizza che sia fatta da innumerevoli stelle fisse così fitte da non poterle distinguere
+    * XII canto: cita il suo segno zodiacale (gemelli)-> da info su sua data di nascita (ad oggi incerta) -> qunado nacque il sole sorgeva e tramontava coi gemelli
+    * XXI canto: cita leone
+    * XXV canto: cita cancro
+    * XXVII canto: cita capricorno (22 dic -20 gen) usa per fare riferimento a inverno
+    * XXXIII canto: alla fine cita moto circolar uniforme

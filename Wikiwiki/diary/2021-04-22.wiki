@@ -1,0 +1,36 @@
+= 2021-04-22 =
+
+== TODO ==
+* [X] Continuo schematizzazione geo2
+* [ ] Chiamo acqua
+* [ ] Chiamo ginocchio
+- [X] continuo keybind
+- [ ] Leggo celine
+- [ ] Leggo kafka
+- [X] Passeggiata (se bel tempo)
+
+== Agenda ==
+| 18:00            |   |
+|------------------|---|
+| Colloquio carati |   |
+
+
+== Quick Notes ==
+*
+
+== Brain Dump ==
+*
+
+{{{
+ _______________________________________
+( If you sow your wild oats, hope for a )
+( crop failure.                         )
+ ---------------------------------------
+      o                _
+       o              (_)
+        o   ^__^       / \
+         o  (oo)\_____/_\ \
+            (__)\       ) /
+                ||----w ((
+                ||     ||>>
+}}}

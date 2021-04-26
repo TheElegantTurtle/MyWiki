@@ -1,0 +1,40 @@
+= 2021-04-13 =
+
+== TODO ==
+* [X] Finisco tutorial c
+* [o] Inzio confronto algoritmi
+    - [X] Penso ottimizzazioni
+           * [X] Quando possibile trasformo div in per
+           * [X] Confronto tempo esecuzione dot prod
+    - [ ] Ragiono su memoria
+    - [X] time
+* [ ] Scrivo per bene conti pauli
+- [X] Medito
+- [ ] Leggo celine
+- [X] Leggo kundera
+
+== Agenda ==
+|   |   |
+|---|---|
+|   |   |
+
+
+== Quick Notes ==
+*
+
+== Brain Dump ==
+*
+
+{{{
+ _____________________________________
+( "A mind is a terrible thing to have )
+( leaking out your ears."             )
+(                                     )
+( -- The League of Sadistic Telepaths )
+ -------------------------------------
+        o   ^__^
+         o  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+}}}

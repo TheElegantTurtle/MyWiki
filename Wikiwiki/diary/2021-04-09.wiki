@@ -1,0 +1,51 @@
+= 2021-04-09 =
+
+== TODO ==
+* [ ] ricontrollo capitoli
+* [ ] mail carati
+* [ ] ripenso dimostrazione arnol'd-liouville
+* [X] continuo algoritmi simplettici
+- [ ] penso posizione chitarre
+- [ ] lavo pavimento
+- [ ] Leggo celine
+- [ ] Leggo kundera
+- [ ] Passeggiata
+
+== Quick Notes ==
+*
+
+== Brain Dump ==
+*
+
+{{{
+ _________________________________________
+( A doctor was stranded with a lawyer in  )
+( a leaky life raft in shark-infested     )
+( waters. The doctor tried to swim ashore )
+( but was eaten by the sharks. The        )
+( lawyer, however, swam safely past the   )
+( bloodthirsty sharks. "Professional      )
+( courtesy," he explained.                )
+ -----------------------------------------
+  o                                  ,+*^^*+___+++_
+   o                           ,*^^^^              )
+    o                       _+*                     ^**+_
+     o                    +^       _ _++*+_+++_,         )
+              _+^^*+_    (     ,+*^ ^          \+_        )
+             {       )  (    ,(    ,_+--+--,      ^)      ^\
+            { (@)    } f   ,(  ,+-^ __*_*_  ^^\_   ^\       )
+           {:;-/    (_+*-+^^^^^+*+*<_ _++_)_    )    )      /
+          ( /  (    (        ,___    ^*+_+* )   <    <      \
+           U _/     )    *--<  ) ^\-----++__)   )    )       )
+            (      )  _(^)^^))  )  )\^^^^^))^*+/    /       /
+          (      /  (_))_^)) )  )  ))^^^^^))^^^)__/     +^^
+         (     ,/    (^))^))  )  ) ))^^^^^^^))^^)       _)
+          *+__+*       (_))^)  ) ) ))^^^^^^))^^^^^)____*^
+          \             \_)^)_)) ))^^^^^^^^^^))^^^^)
+           (_             ^\__^^^^^^^^^^^^))^^^^^^^)
+             ^\___            ^\__^^^^^^))^^^^^^^^)\\
+                  ^^^^^\uuu/^^\uuu/^^^^\^\^\^\^\^\^\^\
+                     ___) >____) >___   ^\_\_\_\_\_\_\)
+                    ^^^//\\_^^//\\_^       ^(\_\_\_\)
+                      ^^^ ^^ ^^^ ^
+}}}

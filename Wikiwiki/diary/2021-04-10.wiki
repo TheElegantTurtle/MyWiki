@@ -1,0 +1,31 @@
+= 2021-04-10 =
+
+== TODO ==
+* [X] Lavo vetri
+* [X] Spesa
+* [ ] Riorganizzo wiki
+* [X] Tutorial C
+* [ ] Leggo Celine
+* [X] Leggo Kundera
+* [X] Penso posizione chitarre
+* [X] Meditazione (5 min)
+* [ ] continuo programma management spese
+
+== Quick Notes ==
+*
+
+== Brain Dump ==
+*
+
+{{{
+ _____________________________
+( Driver does not carry cash. )
+ -----------------------------
+  o
+   o   \_\_    _/_/
+    o      \__/
+           (oo)\_______
+           (__)\       )\/\
+               ||----w |
+               ||     ||
+}}}

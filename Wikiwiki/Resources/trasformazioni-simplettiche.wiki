@@ -8,8 +8,8 @@
     - equivalente a $A^T E A = E$
 * *D* : Funzione dif $g:U->R^{2d}$ è *simplettica* se per ogni punto di $U$, $w(J(g)u,J(g)v)=w(u,v)$ per ogni $u,v$
     - idea: ogni funzione dif è localmente lineare
-    - interpretazione geometrica: M sottovarietà 2d immagine di K (in $R^2$) tramite f(s,t). M è unione di parallelogrammi generati da
-        $df/ds(s,t) ds$ e $df/dt(s,t) dt$. Considero W somma di w applicata a tutti questi parallelogrammi (integrale di w su K)
+    - interpretazione geometrica: M sottovarietà 2dim immagine di K (in $R^2$) tramite $f(s,t)$. M è unione di parallelogrammi generati da
+        $df/ds(s,t) ds$ e $df/dt(s,t) dt$. Considero W somma di $w$ applicata a tutti questi parallelogrammi (integrale di w su K)
         - *T* se g è simplettica $W(g(M))=W(M)$
             1. Parametrizzo g(M)
             2. Scrivo W(g(M))
@@ -19,17 +19,20 @@
     2. Jf(y) come soluzione di eq variazionale in cui compare hessiana di H (simmetrica)
     3. Sostituendo trovo che derivata è 0
     4. f_0=id e soddisfa $Jf(y)^T E Jf(y)=E$, dunque è soddisfatta per tutti t e tutti y
-* *T* (Lemma di integrabilità) : Sia $g:U->R^n$ dif con continuità e sia Jg(y) simmetrica per tutti gli y in U, allora
+* *T* (Lemma di integrabilità) : Sia $g:U \rightarrow R^n$ dif con continuità e !!sia $Jg(y)$ simmetrica per tutti gli y in U!!, allora
     per ogni y in U esiste un intorno di y in cui è definita H tc $g=\grad H$.
-    1. Costruttiva
+    1. [Costruttiva]
     2. Definisco su una palla centrata in $y_0$ $H(y)=\int_0^1 y^t g(ty)dt + cost$
     3. Derivo rispetto a $y_k$
     4. Dalla simmetria ($df_i/dy_k=df_k/dy_i$) segue la tesi
     - Il lemma resta valido per insiemi semplicemente connessi
-*  *T* : $g:U->R^{2d}$ dif con continuità, allora $\dot{y}=f(y)$ è localmente hamiltoniano se e solo se il suo flusso $f_t(y)$ è simplettico
+*  *T* : $g:U->R^{2d}$ dif con continuità, allora $\dot{y}=f(y)$ è localmente hamiltoniano iff il suo flusso $f_t(y)$ è simplettico
         per tutti gli y in U e per t piccoli
     1. => segue da teorema di Poincarè
     2. <= assumo f simplettico, dimostro che esiste localmente H
     3. derivo rispetto al tempo Jf^T E Jf
     4. uso f soluzione di equazione variazionale e sostituisco
     5. siccome E antisimmetrica, E Jf è simmetrica e dunque è gradiente di una funzione H per teorema precedente
+
+== Fonti ==
+Lubich 184-187

@@ -1,0 +1,35 @@
+= 2021-04-21 =
+
+== TODO ==
+* [ ] Chiamo acqua
+* [ ] Chiamo ginocchio
+* [ ] Continuo geo2
+* [ ] Inizio a schematizzare geo2
+- [ ] Foglio gestione spese
+- [ ] Leggo kafka
+- [ ] Leggo celine
+- [ ] Lavo doccia
+
+== Agenda ==
+|   |   |
+|---|---|
+|   |   |
+
+
+== Quick Notes ==
+*
+
+== Brain Dump ==
+*
+
+{{{
+ _________________________________________
+/ When pleasure remains, does it remain a \
+\ pleasure?                               /
+ -----------------------------------------
+  \
+   \   \
+        \ /\
+        ( )
+      .( o ).
+}}}

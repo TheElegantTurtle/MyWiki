@@ -1,0 +1,37 @@
+= 2021-04-20 =
+
+== TODO ==
+* [X] Geo 2 topologia
+* [X] Geo 2 fibrati
+* [X] Geo 2 ripasso
+* [ ] Guardo ginocchio
+* [ ] Chiamo acqua
+- [X] Piego vestiti
+- [X] Lavo pavimento
+- [X] Leggo kundera
+
+== Agenda ==
+|   |   |
+|---|---|
+|   |   |
+
+
+== Quick Notes ==
+*
+
+== Brain Dump ==
+*
+
+{{{
+ __________________________________
+/ I wouldn't be so paranoid if you \
+\ weren't all out to get me!!      /
+ ----------------------------------
+     \
+      \  (__)
+         (\/)
+  /-------\/
+ / | 666 ||
+*  ||----||
+   ~~    ~~
+}}}

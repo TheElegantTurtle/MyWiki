@@ -1,0 +1,51 @@
+= 2021-04-24 =
+
+== TODO ==
+* [X] finisco di rivedere conti
+- [ ] penso menù settimana
+- [ ] Lavo bagno
+- [ ] lavo cucina
+- [ ] Passeggiata
+
+== Agenda ==
+|   |   |
+|---|---|
+|   |   |
+
+
+== Quick Notes ==
+*
+
+== Brain Dump ==
+*
+
+{{{
+ _________________________________________
+/ <james> Are we going to make an emacs   \
+| out of apt?                             |
+|                                         |
+| APT - Debian in a program. It even does |
+| your laundry                            |
+|                                         |
+\ -- Seen on #Debian                      /
+ -----------------------------------------
+          \           \  /
+           \           \/
+               (__)    /\
+               (oo)   O  O
+               _\/_   //
+         *    (    ) //
+          \  (\\    //
+           \(  \\    )
+            (   \\   )   /\
+  ___[\______/^^^^^^^\__/) o-)__
+ |\__[=======______//________)__\
+ \|_______________//____________|
+     |||      || //||     |||
+     |||      || @.||     |||
+      ||      \/  .\/      ||
+                 . .
+                '.'.`
+
+            COW-OPERATION
+}}}

@@ -1,0 +1,52 @@
+= 2021-04-23 =
+
+== TODO ==
+* [X] Geometria 2
+* [X] Ricontrollo momento magnetico
+* [X] Scrivo hamiloniana
+* [X] Scrivo eq moto
+- [ ] Leggo kafka
+- [ ] Leggo celine
+- [X] Lavo vetri
+- [X] Lavo pavimento
+
+== Agenda ==
+|   |   |
+|---|---|
+|   |   |
+
+
+== Quick Notes ==
+*
+
+== Brain Dump ==
+*
+
+{{{
+ ________________________________________
+( QOTD:                                  )
+(                                        )
+( I'm not bald -- I'm "hair challenged". )
+(                                        )
+( [I thought that was "differently       )
+( haired". Ed.]                          )
+ ----------------------------------------
+   o
+    o
+      _____   _________
+     /     \_/         |
+    |                 ||
+    |                 ||
+   |    ###\  /###   | |
+   |     0  \/  0    | |
+  /|                 | |
+ / |        <        |\ \
+| /|                 | | |
+| |     \_______/   |  | |
+| |                 | / /
+/||                 /|||
+   ----------------|
+        | |    | |
+        ***    ***
+       /___\  /___\
+}}}

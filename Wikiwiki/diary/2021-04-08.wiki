@@ -1,0 +1,37 @@
+= 2021-04-08 =
+
+== TODO ==
+* [X] Stima errore
+* [X] Finisco dimostrazione arnol'd-liouville
+* [X] Rivedo capitoli tesi
+* [ ] (Schematizzo geo2)
+- [X] Chiedo a vitto di esame
+- [X] Passeggiata
+- [X] Sistemo vestiti
+- [X] Penso a chitarre
+- [X] Capisco funzione ricerca wiki
+
+== Quick Notes ==
+*
+
+== Brain Dump ==
+*
+
+{{{
+ ______________________________________
+/ "The four building blocks of the     \
+| universe are fire, water, gravel and |
+| vinyl."                              |
+|                                      |
+\ -- Dave Barry                        /
+ --------------------------------------
+     \
+      \
+        ,__, |    |
+        (oo)\|    |___
+        (__)\|    |   )\_
+             |    |_w |  \
+             |    |  ||   *
+
+             Cower....
+}}}

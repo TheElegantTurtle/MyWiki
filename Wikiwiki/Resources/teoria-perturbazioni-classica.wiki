@@ -1,0 +1,48 @@
+= Teoria delle Perturbazioni Classica =
+* Problema: in azione-agoli ($(a,b)\in DxT^n$, $DcR^n$) un'Hamiltoniana completamente integrabile ha forma $H_0(a)$
+    e conosciamo il suo moto (tori, vedi [[sistemi-integrabili]]). Cosa so dire
+    del sistema perturbato $H(a,\theta)=H_0(a)+\epsilon H_1(a,\theta)?$
+    - $H_1$ dipende potenzialmente da $\epsilon$
+    - Assumo (sono relativamente poche restrizioni):
+        * $H_1$ è limitata da una costante indipendente da $\epsilon$ in un intorno complesso :??: di $DxT^n$
+        * $H_0$, $H_1$ reali e analitiche
+* Idea: cerco trasformazione simplettica $(a,\theta)->(b,\phi)$ tc $H$ dipenda nelle nuove coordinate solo
+    da $b$ a meno di $O(\epsilon^N)$
+
+== N=2 ==
+* Cerco una funzione generatrice $S(b,\theta)=b\theta+\epsilon S_1(b,\theta)$, con $S_1$ periodica in $\theta$
+    - $a=dS/d\theta$, $\phi=dS/db$ (vedi [[funzioni-generatrici]])
+* $H(a,\theta)=H(b+dS_1/d\theta,\theta)=H_0(b+dS_1/d\theta)+\epsilon H_1(b+dS_1/d\theta,\theta)$
+  $=H_0(b)+\epsilon [\omega(b)dS_1/d\theta+ H_1(b,\theta)]+O(\epsilon^2)$
+    - Ho chiamato $\omega(b)=dH_0/db(b)$
+* *!* Richiedo $\omega(b)dS_1/d\theta+H_1(b,\theta)=[H_1](b)$, ovvero che il termine in $\epsilon$ sia funzione solo di $b$
+    - Se medio rispetto a $\theta$ su un periodo $dS_1/d\theta$ se ne va perchè $S_1$ è periodica =>$[H_1]$ è la media su un periodo di $H_1$
+    - Si chiama equazione omologica: perno fondamentale della teoria
+* Risolvo equazione omologica per trovare $S_1$:
+    - Sviluppo in serie di fourier $S_1$ e $H_1$, hanno termine $s_k(b)e^{ik\theta}$, $h_k(b)e^{ik\theta}$
+    - Impongo uguaglianza termine a termine:
+        * $s_0$ arbitrario (se ne va con derivata)
+        * $h_0=[H_1]$;
+        * $s_k=-h_k/(ik\omega)$
+* [Problema piccoli denominatori]
+* Nelle nuove variabili, lontano da piccoli denominatori, ho l'Hamiltoniana $K(b,\phi)=H_0(b)+\epsilon[H_1](b)+O(\epsilon^2)$
+
+== N>2 ==
+* Prendo come funzione generatrice $S(b,\theta)=b\theta+\epsilon S_1(b\theta)+...+\epsilon^{N-1}S_{N-1}(b,\theta)$
+* Richiedo che i primi $N$ termini dello sviluppo in serie di $H$ siano indipendenti dall'angolo
+* Porta all'equazione omologica $\omega(b)\frac{dS_j}{d\theta}+K_j(b,\theta)=[K_j](b)$ con
+    $K_j=\sum_i \frac{1}{i!} \frac{d^iH_{k_0}}{da^i}(\frac{dS_{k_1}}{d\theta},...,\frac{dS_{k_i}}{d\theta})$ dove ($k_1+...+k_i=j$)
+    - $K_1=H_1$
+* L'Hamiltoniana diventa $K(b,\phi)=H_0(b)+\epsilon [K_1](b)+...+\epsilon^{N-1}[K_{N-1}(b)]+O(\epsilon^n)$
+* La convergenza della serie per $N\rightarrow \infty$ è una questione delicata
+
+
+* *T* : Sia $b'$ tc $\omega(b')$ soddisfi la condizione diofantea $|k\omega(b')|\geq\gamma(|k|^2)^{-\nu}$
+    con $\gamma,\nu$ costanti positive, $k$ reale. Allora per ogni $N\geq 2$ esistono $\epsilon_0,C,c>0$
+    costanti e una trasformazione simplettica $(a\theta)\mapsto(b,\phi)$ tc per $\epsilon<\epsilon_0$
+    ogni soluzione $(b(t),\phi(t))$ del sistema perturbato con condizione iniziale $|b(0)-b'|\leq c|\log\epsilon|^{-\nu-1}$
+    (aka abbastanza vicina a $b*$) vale:
+    i) stima sulle azioni: per $t\leq e^{-N+1}$ -> $|b(t)-b(0)|\leq Ct\epsilon^N$ (distanza di ordine $\epsilon$ per $t=\epsilon^{-N+1}$)
+    ii) stima sugli angoli: per $t^2\leq e^{-N+1}$ -> $|\phi(t)-\phi(0)-\omega_{\epsilon,N}(b(0))t|\leq C(t^2+t|\log\epsilon|^{\nu+1})\epsilon^N$
+        con $\omega_{\epsilon,N}$ la derivata rispetto a $b$ di $K$ troncata all'N-esimo termine
+    iii) la trasformazione è $O(\epsilon)$-vicina all'identità, ovvero $|(a,\theta)-(b,\phi)|<C\epsilon$

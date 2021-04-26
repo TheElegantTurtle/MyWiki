@@ -1,0 +1,52 @@
+= 2021-04-15 =
+
+== TODO ==
+* [X] Controllo implementazione secondo metodo
+* [X] Aggiungo considerazioni velocità e memoria
+* [X] Ricontrollo segno pauli
+* [ ] Riguardo bene return value optimization
+- [X] Controllo padlet clarice
+- [X] Leggo kundera
+- [X] Lavo pavimento
+- [X] Scongelo pesce (+ cerco ricetta)
+- [X] Medito 5 min
+
+== Agenda ==
+|   |   |
+|---|---|
+|   |   |
+
+
+== Quick Notes ==
+*
+
+== Brain Dump ==
+*
+
+{{{
+ ___________________________________
+( Santa's elves are just a bunch of )
+( subordinate Clauses.              )
+ -----------------------------------
+     o
+      o
+             ,;;;;;;;,
+            ;;;;;;;;;;;,
+           ;;;;;'_____;'
+           ;;;(/))))|((\
+           _;;((((((|))))
+          / |_\\\\\\\\\\\\
+     .--~(  \ ~))))))))))))
+    /     \  `\-(((((((((((\\
+    |    | `\   ) |\       /|)
+     |    |  `. _/  \_____/ |
+      |    , `\~            /
+       |    \  \           /
+      | `.   `\|          /
+      |   ~-   `\        /
+       \____~._/~ -_,   (\
+        |-----|\   \    ';;
+       |      | :;;;'     \
+      |  /    |            |
+      |       |            |
+}}}

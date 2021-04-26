@@ -1,16 +1,39 @@
 = 2021-04-07 =
 
 == TODO ==
-* [ ] continuo algoritmi simplettici
-* [ ] continuo schematizzazione
-* [ ] ricontrollo algoritmi vincolo
-- [ ] leggo celine
-- [ ] lavatrice
-- [ ] lavaggio filtro aspirapolvere
-- [ ] stendo
-- [ ] passeggiata
+* [X] continuo algoritmi simplettici
+* [X] continuo schematizzazione
+* [X] ricontrollo algoritmi vincolo
+- [X] leggo celine
+- [X] lavatrice
+- [X] lavaggio filtro aspirapolvere
+- [X] stendo
+- [X] passeggiata
 
 == Quick notes ==
 *
 
--pd-
+== Brain Dump ==
+*
+
+{{{
+ _______________________________________
+/ I see the eigenvalue in thine eye, I  \
+| hear the tender tensor in thy sigh.   |
+| Bernoulli would have been content to  |
+| die Had he but known such a-squared   |
+| cos 2(phi)!                           |
+|                                       |
+\ -- Stanislaw Lem, "Cyberiad"          /
+ ---------------------------------------
+  \            .    .     .
+   \      .  . .     `  ,
+    \    .; .  : .' :  :  : .
+     \   i..`: i` i.i.,i  i .
+      \   `,--.|i |i|ii|ii|i:
+           UooU\.'@@@@@@`.||'
+           \__/(@@@@@@@@@@)'
+                (@@@@@@@@)
+                `YY~~~~YY'
+                 ||    ||
+}}}

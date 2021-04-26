@@ -1,0 +1,31 @@
+= Sottogruppi Discreti di R^n =
+* *T* : Sia $\Gamma$ un sottogruppo discreto di $R^n$ allora esistono $k<n$ vettori li
+    $e_1...e_k$ che generano $\Gamma$
+    1. $0$ è sempre elemento del sottogruppo
+    2. => Se $\Gamma=\{0\}$ la tesi è vera
+    3. Altrimenti c'è almeno un punto $e_0$ diverso da $0$.
+        a) Considero la linea $Le_1$ passante per $0$ e per $e_0$
+        b) Considero il cerchio di raggio $|e_0|$ centrato in $0$
+        c) gruppo discreto => nel cerchio c'è un numero finito di punti di $\Gamma$
+        d) => Tra i punti nel cerchio e sulla linea, il punto $e_1$ più vicino a $0$ sarà quello più vicino allo $0$ di tutta la linea
+        e) Partiziono la linea con i multipli interi di $e_1$
+        f) Se in un intervallo $(me_1,(m+1)e_1)$ ci fosse un altro punto $e\in\Gamma$ allora il punto $e-me_1$
+            (che appartiene a $\Gamma$ perchè gruppo) sarebbe più vicino a $0$ di $e_1$ => $\{me_1\}$ è
+            l'interezione di $\Gamma$ con la linea
+    4. => Se non ci sono punti di $\Gamma$ fuori dala linea la tesi è vera
+    5. Altrimenti c'è almeno un punto $e_0$ fuori dalla linea e diverso da $0$
+        a) Proietto $e_0$ sulla linea
+        b) La proiezione si trova in un particolare intervallo, ovvero è nella forma $a e_1$, $m<a<m+1$.
+            Chiamo $D$ l'intervallo
+        c) Considero un cilindro 2D (aka rettangolo) che abbia come raggio la distanza fra $e_0$ e la linea, e come asse $D$
+        d) Nel cilindro c'è un numero finito di punti di $\Gamma$ (alla peggio $e_0$), chiamo $e_2$ il più
+            vicino all'asse fra questi
+        e) $m_1e_1+m_2e_2$ ($m_i$ intero) formano un reticolo sul piano $e_1e_2$
+        f) Non possono esserci altri punti di $\Gamma$ sul piano, dividendo infatti il piano in
+            parallelogrammi $P=a_1e_1+a_2e_2$, $m_i<a_i<m_i+1$ $(i=1,2)$ se ci fosse $e\in P/\partial P$
+            allora $e-m_1e_1-m_2e_2$ sarebbe più vicino a $Le_1$ di $e_2$ => $m_1e_1+m_2e_2$ =>
+            $m_1e_1+m_2e_2$ sono le intersezioni di $\Gamma$ col piano
+    6. => Se non ci sono punti di $\Gamma$ fuori dal piano la tesi è vera
+    7. Altrimenti proseguo col ragionamento: proietto $e_0$ sul piano, la proiezione si trova in un particolare
+        parallelogramma $a_1e_1+a_2e_2$, considero il cilindro 3D con raggio
+        la distanza fra $e_0$ e il piano e asse la distanza fra proiezione e origine etc...

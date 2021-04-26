@@ -1,6 +1,21 @@
-[[integratori-simplettici.wiki|Integratori simplettici]]
-[[trasformazioni-simplettiche.wiki|Trasformazioni Simplettiche]]
-[[funzioni-generatrici.wiki|funzioni generatrici]]
-[[sistemi-integrabili.wiki|sistemi integrabili]]
+= Resources =
+== Meccanica Razionale ==
+* [[integratori-simplettici|Integratori Simplettici]]
+* [[trasformazioni-simplettiche|Trasformazioni Simplettiche]]
+* [[funzioni-generatrici|Funzioni Generatrici]]
+* [[sistemi-integrabili|Sistemi Integrabili]]
+* [[teoria-perturbazioni-classica|Teoria delle Perturbazioni Classica]]
 
-[[Zettelkasten/aaaaaaa-.md|Zettelkasten]]
+* [[quaternioni|Quaternioni]]
+
+== Gruppi ==
+* [[sottogruppi-discreti-Rn|Sottogruppi Discreti di R^n]]
+
+== Programmazione ==
+* [[cpp-optimization|C++: Ottimizzazione]]
+
+== Conferenze ==
+* [[210423-antares-astronomia_nella_divina_commedia]]
+
+== Zettel ==
+* [[Zettelkasten/aaaaaaa-.md|Zettelkasten]]

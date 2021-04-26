@@ -1,0 +1,33 @@
+= Quaternioni =
+
+== Definizione e proprietà ==
+* *D:* Numero complesso generalizzato nella forma $q=w+ix+jy+kz$
+    dove:
+    - $i^2=y^2=z^2=-1$
+    - $ij=-ji=k$ e cicliche
+* I quaternioni formano uno spazio vettoriale $H$ di dim 4
+* *P:* La moltiplicazione fra quaternioni è non-commutativa per
+    definizione e associativa
+* Data l'associatività le relazioni nella D si riassumono:
+     $i^2=j^2=k^2=ijk=-1$
+* *D:* Parte reale $Re(q)=w\in R$
+* *D:* Parte pura $Pu(q)=ix+jy+kz\in R^3$
+* Segue che $H=R\oplus R^3$
+* $R\oplus R^3$ sv reale, col prodotto fra quaternioni è un'
+    algebra associativa
+* *D:* coniugato $\bar{q}=w-ix-jy-kz$
+* Segue che:
+    - norma $|q|=\sqrt{ q\bar{q} }$
+    - inverso $q^{-1}=\bar{q}/|q|^2$
+* *D:* Centro di $H$ $Cen(H)=\{w\in H | wq=qw \quad \forall q\in H\}$
+    - $R$ è l'unico centro di $H$
+
+== Rotazioni ==
+* $r\in R^3,a\neq 0\in H$ => $|ara^{-1}|=|r|$ => $r \mapsto ara^{-1}$
+    è una rotazione
+
+
+
+
+== Fonti ==
+* Clifford algebras and spinors - Lounesto

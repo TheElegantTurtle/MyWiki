@@ -1,0 +1,37 @@
+= 2021-04-26 =
+
+== TODO ==
+* [ ] Studio quaternioni
+* [ ] Penso applicazione algoritmo simplettico 3 metodo
+* [ ] Recap dopo colloquio
+- [ ] Chiamo acqua
+- [ ] Chiamo ginocchio
+- [ ] Leggo pan
+- [ ] Lavo pavimento
+- [ ] Lavatrice
+
+== Agenda ==
+| 14:00            | 15:00 |
+|------------------|-------|
+| Colloquio carati |       |
+
+
+== Quick Notes ==
+*
+
+== Brain Dump ==
+*
+
+{{{
+ _______________________________________
+( We make our mailing list available to )
+( selected organizations.               )
+ ---------------------------------------
+     o
+      o  (__)
+         (\/)
+  /-------\/
+ / | 666 ||
+*  ||----||
+   ~~    ~~
+}}}

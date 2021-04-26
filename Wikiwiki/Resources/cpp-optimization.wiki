@@ -1,0 +1,18 @@
+= C++: Ottimizzazione =
+== Principi ==
+* avoid cache misses
+* Heap allocations -> most expensive
+* Dealloc -> second most expanseive
+* Se qualcosa è grosso e locale tenerlo nello stack
+*
+* Se non ho problemi con dim fissa array sono + efficenti di vectors
+* Unions: pericolose (undefined behaviour) ma possono salvare spazio
+* Variants: safe union ma occupano + spazio
+
+* Passaggi a funzione
+   - by value per dati piccoli o se ho bisogno cmq di copia
+   - il resto by reference (anche shared pointers)
+* Return
+   - quando posso evitare move per non inibire RVO
+   - Avere return diversi boccano RVO ma non automatic move
+   - Conditional statemenst inibiscono automatic move: meglio evitare

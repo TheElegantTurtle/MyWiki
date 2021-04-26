@@ -1,2 +1,2 @@
-[[mealplan.wiki|Meal Plan]]
-[[Recipes/recipes.wiki|Recipes]]
+* [[mealplan.wiki|Meal Plan]]
+* [[Recipes/recipes.wiki|Recipes]]

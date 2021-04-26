@@ -1,0 +1,38 @@
+= 2021-04-19 =
+
+== TODO ==
+* [ ] Rivedo se ci sono altri confronti da fare
+* [X] Ripasso algoritmi simplettici
+* [X] Studio algebre di lie e p di poisson
+* [ ] Chiamo acqua
+* [ ] Guardo terapia ginocchio
+- [X] Doki doki (1h)
+- [X] leggo kunedra
+- [X] Cuocio cereali
+
+== Agenda ==
+|   |   |
+|---|---|
+|   |   |
+
+
+== Quick Notes ==
+*
+
+== Brain Dump ==
+* Guardo albero su treedom
+
+{{{
+ ______________________________________
+/ My parents went to Niagara Falls and \
+\ all I got was this crummy life.      /
+ --------------------------------------
+        \    ,-^-.
+         \   !oYo!
+          \ /./=\.\______
+               ##        )\/\
+                ||-----w||
+                ||      ||
+
+               Cowth Vader
+}}}

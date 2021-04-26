@@ -1,0 +1,34 @@
+= Tesi =
+
+== TODO ==
+* [X] Studio materiale C/C++
+* [X] Scrivo conti espliciti pauli
+* [X] Confronto i due metodi ottenuti finora
+    - [X] controllo velocità
+    - [X] confronto uso memoria
+* [ ] Scrivo tesi
+    - [ ] Sistemo implementazione secondo metodo
+    - [ ] Aggiungo considerazioni su velocità
+* [ ] Perchè parentesi poisson mandano polinomi omogenei in polinomi omogenei?
+
+== Scheduling ==
+=== Martedì ===
+* [X] Studio materiale C/C++
+
+=== Mercoedì ===
+* [ ] Scrivo tesi
+    - [ ] Sistemo implementazione secondo metodo
+    - [ ] Aggiungo considerazioni su velocità
+* [X] Scrivo conti espliciti pauli
+* [X] Confronto i due metodi ottenuti finora
+    - [X] controllo velocità
+    - [X] confronto uso memoria
+
+=== Giovedì ===
+* [ ] Sistemo implementazione secondo metodo
+* [ ] aggiungo considerazioni su velocità
+* [ ] Perchè parentesi poisson mandano polinomi omogenei in polinomi omogenei?
+
+== Notes ==
+* Vincolo + flessibile in fatto di velocità: posso aumentare scegliendo di essere meno preciso in risoluzione di metodo implicito
+* Rotazioni impattano su velocità?

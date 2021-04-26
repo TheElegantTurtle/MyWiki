@@ -1,0 +1,51 @@
+= 2021-04-17 =
+
+== TODO ==
+* [X] Passo testo tesi su tablet
+* [X] Scrivo file dati iniziali
+* [X] test su vari dati iniziali
+* [X] Ricontrollo testo tesi
+- [X] marinare pollo e broccolo
+- [ ] leggo kundera
+- [ ] passeggiata
+- [X] doccia
+
+== Agenda ==
+|   |   |
+|---|---|
+|   |   |
+
+
+== Quick Notes ==
+*
+
+== Brain Dump ==
+*
+
+{{{
+ _______________________________________
+/ It's simply unbelievable how much     \
+| energy and creativity people have     |
+| invested into creating contradictory, |
+| bogus and stupid licenses...          |
+|                                       |
+| -- - Sven Rudolph about licences in   |
+\ debian/non-free.                      /
+ ---------------------------------------
+ \     ____________
+  \    |__________|
+      /           /\
+     /           /  \
+    /___________/___/|
+    |          |     |
+    |  ==\ /== |     |
+    |   O   O  | \ \ |
+    |     <    |  \ \|
+   /|          |   \ \
+  / |  \_____/ |   / /
+ / /|          |  / /|
+/||\|          | /||\/
+    -------------|
+        | |    | |
+       <__/    \__>
+}}}
